@@ -33,7 +33,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-.env
+# .env
 
 *.sql
 docker-compose.yml
